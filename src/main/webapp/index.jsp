@@ -2,7 +2,7 @@
 <head>
 <title>Hello World!</title>
 </head>
-<body bgcolor="rad">
+<body bgcolor="red">
 	<h1>Hello World! wellcome to my world MR8821 </h1>
 	<p>
 		It is now
