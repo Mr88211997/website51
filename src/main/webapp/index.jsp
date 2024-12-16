@@ -17,7 +17,7 @@
 
         .game-container {
             background-color: white;
-            padding: 20px;
+            padding: 200px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             width: 300px;
