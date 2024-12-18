@@ -75,6 +75,7 @@
     <div class="game-container">
         <h1>Guess the Number</h1>
         <p>Guess a number between 1 and 100</p>
+        <p>please type number from the given range</p>
         <input type="number" id="guess" placeholder="Enter your guess" />
         <button class="btn" onclick="checkGuess()">Submit Guess</button>
         <p class="message" id="message"></p>
